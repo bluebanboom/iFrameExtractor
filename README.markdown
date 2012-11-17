@@ -14,15 +14,7 @@ Build steps
 
 	`git submodule update`
 
-- Checkout ffmpeg v1.0.
-
-	`cd ffmpeg`
-
-	`git checkout n1.0`
-
 - Build ffmpeg libs for i386, armv7, armv7s.
-
-	`cd ..`
 
 	`./buildffmpeg`
 
